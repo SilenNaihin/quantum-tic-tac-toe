@@ -1,3 +1,3 @@
 # Quantum-Tic-Tac-Toe
 
-# this is 
+This is the quantum version of tic tac toe
